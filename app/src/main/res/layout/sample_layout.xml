@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         app:cardElevation="20dp"
         app:cardUseCompatPadding="true"
-        app:contentPadding="10dp"
+        app:contentPadding="20dp"
         app:cardCornerRadius="20dp">
 
         <ImageView
